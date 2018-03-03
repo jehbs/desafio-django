@@ -10,7 +10,7 @@ Não existe um tempo determinado pra executar o teste mas ele conta e é levado 
 
 ---
 
-## Importamte
+## Importante
 
 - Seguir a convenção PEP8
 - Python 3.6
